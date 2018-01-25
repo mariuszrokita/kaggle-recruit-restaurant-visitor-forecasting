@@ -1,4 +1,4 @@
 # ignore unzipped files with data as they are quite large in disk size
-data/*.csv
+data/*/*.csv
 
 .ipynb_checkpoints
